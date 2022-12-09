@@ -1,0 +1,1 @@
+Geometries optimized at the B3LYP/6-31G(d,p) level of theory. Solvent effects included with CPCM (water) in Gaussian03W.
