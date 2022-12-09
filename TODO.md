@@ -1,1 +1,2 @@
 https://www.nature.com/articles/s41598-020-67515-3#Abs1
+https://www.researchgate.net/publication/288243627_Formation_of_Hexamethylenetetramine_HMT_from_HCHO_and_NH3_-_Relevance_to_Prebiotic_Chemistry_and_B3LYP_Consideration
