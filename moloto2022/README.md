@@ -1,0 +1,1 @@
+Geometries optimized at the ZORA-BLYP/TZ2P level of theory in ADF.

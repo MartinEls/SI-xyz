@@ -1,0 +1,1 @@
+Geometries optimized at the M06-2X/6–311++G(3d,3pd) level of theory with Gaussian 09.
