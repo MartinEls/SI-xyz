@@ -1,0 +1,1 @@
+Geometries optimized at the wB97X-D/aug-cc-pVDZ level of theory in Q-Chem.
