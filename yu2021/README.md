@@ -1,0 +1,1 @@
+Geometries optimized at the M06-L/6-31+G(d,p) (LANL2TZ+ ECP for copper and iodine) level of theory with the IEFPCM solvation model for DCM in Gaussian 09.
